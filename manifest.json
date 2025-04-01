@@ -1,0 +1,41 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[1.21.70]Item Config Addon",
+        "description": "BetaAPIsを有効にする必要があります",
+        "uuid": "c24a66a6-b373-4565-b846-971c74fc337f",
+        "version": [
+            0,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            20,
+            40
+        ]
+    },
+    "modules": [
+        {
+            "description": "GameTest module",
+            "type": "script",
+            "uuid": "205e55c4-172f-4496-8ebe-188b777d078c",
+            "version": [
+                0,
+                1,
+                0
+            ],
+            "entry": "scripts/index.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "2.0.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "2.0.0-beta"
+        }
+    ]
+}
