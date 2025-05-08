@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.70]Item Config Addon",
+        "name": "[1.21.80]Item Config Addon",
         "description": "BetaAPIsを有効にする必要があります",
-        "uuid": "c24a66a6-b373-4565-b846-971c74fc337f",
+        "uuid": "c24a66a6-b373-4565-b213-971c74fc552f",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "205e55c4-172f-4496-8ebe-188b777d078c",
+            "uuid": "205e55c4-172f-4496-8ebe-422b777d078c",
             "version": [
                 0,
                 1,
